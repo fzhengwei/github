@@ -6,5 +6,6 @@ public class smile {
 		System.out.println("github smile");
 		
 		System.out.println("终于使用fzwcc用户clone成功了");
+		System.out.println("10.18");
 	}
 }
